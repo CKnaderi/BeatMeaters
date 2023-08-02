@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding-bottom: 50px;
+}
+
+
+
+.header {
+  background-color: #f1f1f1;
+  padding: 40px;
+  text-align: center;
+  margin: 0;
+  font-family:Impact, Times, serif;
+  font-size: 50px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+h1 {
+  Text-align: center;
+  font-family:Georgia, Times, serif;
+}
+
+h2 {
+  Text-align: center;
+  font-family:Georgia, Times, serif;
+}
+
+.midtext {
+  
+  font-family: "Lucida Grande", Times, serif;
+  font-stretch: expanded;
+  width: 75%;
+  Text-align: center;
+  margin: auto;
+  Font-size: 20px;
+}
+
+
+a {
+  Text-align: center;
+  font-family: "Lucida Grande", Times, serif;
+  font-weight: bold;
+  Display: block;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.promo {
+  width: 180px;
+  border: 5px solid black;
+  padding: 10px;
+  margin: auto;
+  Bottom-margin: 10px;
+}
+
+.promo a:hover {
+  border-color: red;
+}
